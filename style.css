@@ -1,0 +1,82 @@
+body,header,p
+{
+    margin: auto;
+}
+
+body
+{
+    background-image:url(floubackground.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    color: #FFF;
+    text-align: justify;
+}
+
+header
+{
+    font-size: 40px;
+    font-family: monospace, sans-serif;
+    text-align: center;
+}
+
+p, div
+{
+    font-family:Georgia, sans-serif;
+    text-align: center;
+}
+
+.genreJeu
+{
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+.infoJeu
+{
+    font-weight: bold;
+}
+
+li
+{
+    list-style-type: none;
+    text-align: center;
+}
+
+img
+{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+section
+{
+    margin: 150px;
+}
+
+h2
+{
+    font-size: 40px;
+}
+
+#bloc
+{
+    width: 1000px;
+    margin:auto;
+}
+
+#top4
+{
+    background-image: url(ds3f.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+#top3
+{
+    background-image: url(deathsf.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+}
